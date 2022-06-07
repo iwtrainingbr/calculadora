@@ -1,1 +1,4 @@
 # calculadora
+
+--- 
+**Author:** Alessandro Feitoza 
